@@ -1,4 +1,4 @@
-# Hey there! 👋, I'm Philip. Welcome to my page.
+# Hey there! I'm Philip. Welcome to my page. 👋
 
 <p style="font-size: 1.5rem; font-weight: bold;">I am a full-stack Software Engineer from the Bay Area. I was working in Human Resources before I switched careers and transitioned into Software Engineering. </p>
 
