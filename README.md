@@ -1,6 +1,6 @@
 # Hey there! I'm Philip. Welcome to my page. 👋
 
-<p style="font-size: 1.5rem; font-weight: bold;">I am a full-stack Software Engineer from the Bay Area. I was working in Human Resources before I switched careers and transitioned into Software Engineering. My hobbies include weightlifting, playing video games, going to music festivals, and beiing active whether it's through hiking, rock climbing, or discovering new places to eat and drink! </p>
+<p style="font-size: 1.5rem; font-weight: bold;">I am a full-stack Software Engineer from the Bay Area. I was working in Human Resources before I switched careers and transitioned into Software Engineering. My hobbies include weightlifting, playing video games, going to music festivals, and being active whether it's through hiking, rock climbing, or discovering new places to eat and drink! </p>
 
 </br>
 
